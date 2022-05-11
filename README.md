@@ -16,3 +16,5 @@ Sleep apnea is a sleep disorder characterized by the obstruction in nasal airflo
 * recrop.ipynb - remove white space from all images
 * rename_files.ipynb - rename all images to consistent naming
 * ***train.ipynb*** - train the CNN and save weights
+
+note: spectrogram data files too large to upload to liondrive
